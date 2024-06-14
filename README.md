@@ -32,4 +32,4 @@ O projeto está organizado da seguinte forma:
 
 Este projeto não só exemplifica a implementação de um CRUD simples com Express, mas também destaca a importância dos testes de software para garantir a qualidade e confiabilidade de sistemas complexos. Investir em um processo de teste adequado desde as fases iniciais do desenvolvimento é crucial para o sucesso a longo prazo de qualquer projeto de software.
 
-Para um aprofundamento teórico sobre testes de software, consulte [Teoria dos Testes de Software](./conteudo.md).
+Para se aprofundar mais acesse: [Teoria dos Testes de Software](./conteudo.md).
