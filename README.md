@@ -25,8 +25,7 @@ O projeto está organizado da seguinte forma:
 ## Ferramentas e Tecnologias Utilizadas
 
 - **Express.js**: Framework web para Node.js usado para construir a API RESTful.
-- **Vitest**: Biblioteca de testes utilizada para criar e executar testes unitários e E2E.
-- **Mocking e Spying**: Utilizados para simular comportamentos de objetos e verificar interações durante os testes.
+- **Vitest**: Framework de testes utilizada para criar e executar testes unitários e E2E.
 
 ## Conclusão
 
